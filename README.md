@@ -26,6 +26,7 @@
  - 2023-1-17
    + 上传 明日方舟-能天使(Arknights-Exia)
    + 上传 明日方舟-推进之王(Arknights-Siege)
+   + 上传 明日方舟-伊芙利特(Arknights-Ifrit)
    + 上传 明日方舟-伊芙利特-日晒(Arknights-Ifrit-SS.SP)
    + 上传 明日方舟-艾雅法拉(Arknights-Eyjafjalla)
    + 上传 明日方舟-艾雅法拉-夏卉(Arknights-Eyjafjalla-FA018)
@@ -56,6 +57,7 @@
  <details>
  <summary>伊芙利特+伊芙利特-日晒(Ifrit)</summary>
     
+ 
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9-%E6%97%A5%E6%99%92(Ifrit).png)
  </details>
  
