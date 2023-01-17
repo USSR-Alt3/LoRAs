@@ -17,12 +17,7 @@
   # 以下是预览图(Preview)：
  
  <details><summary>
-    明日方舟(Arknights)</summary>
-          <details><summary>
-             能天使(Exia)</summary>
-             
-            ![](https://user-images.githubusercontent.com/122780549/212804832-f4714091-1c77-4fc5-90db-350aad1cb709.png)
-            ![](https://user-images.githubusercontent.com/122780549/212804857-a9a00060-f85a-497d-b65e-7402bbe5d025.png)
-
-          </details>
+    能天使(Exia)</summary>
+    
+    ![](https://github.com/USSR-Alt3/Embeddings/blob/63e989d04be7c2cc2d39106a28699dc89fc74e2b/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%83%BD%E5%A4%A9%E4%BD%BF(Exia).png)
  </details>
