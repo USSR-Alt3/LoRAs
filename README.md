@@ -23,14 +23,17 @@
  4. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
 
   # 更新日志(Update)：
+ - 2023-1-18
+   + 上传 明日方舟-安洁莉娜-质素访客(Arknights-Angelina-Bloodline of Combat)
+   + 上传 明日方舟-安洁莉娜-夏卉(Arknights-Angelina-CoralCoast)
  - 2023-1-17
    + 上传 明日方舟-能天使(Arknights-Exia)
    + 上传 明日方舟-推进之王(Arknights-Siege)
    + 上传 明日方舟-伊芙利特(Arknights-Ifrit)
-   + 上传 明日方舟-伊芙利特-日晒(Arknights-Ifrit-SS.SP)
+   + 上传 明日方舟-伊芙利特-日晒(Arknights-Ifrit-CoralCoast)
    + 上传 明日方舟-艾雅法拉(Arknights-Eyjafjalla)
-   + 上传 明日方舟-艾雅法拉-夏卉(Arknights-Eyjafjalla-FA018)
-   + 上传 明日方舟-安洁莉娜(Arknights-Exia)
+   + 上传 明日方舟-艾雅法拉-夏卉(Arknights-Eyjafjalla-CoralCoast)
+   + 上传 明日方舟-安洁莉娜(Arknights-Angelina)
    + 上传 游戏王-魔女术名匠·玻璃女巫(YGO-OCG-Witchcrafter Madame Verre)
    + 上传 游戏王-白银城的拉比林斯(YGO-OCG-Labrynth of the silver castle)
    + 上传 碧蓝航线-奥古斯都(AzurLune-August)
@@ -72,8 +75,11 @@
  <summary>安洁莉娜+安洁莉娜-质素访客+安洁莉娜-夏卉(Angelina)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C(Angelina).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E8%B4%A8%E7%B4%A0%E8%AE%BF%E5%AE%A2(Angelina).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E5%A4%8F%E5%8D%89(Angelina).png)
+ </details>
  
- </details></details>
+ </details>
  
  <details>
  
@@ -90,7 +96,7 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/98104f5414c3a807d66a97a0eefbd67579e72228/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%AD%94%E5%A5%B3%E6%9C%AF%E5%90%8D%E5%8C%A0%C2%B7%E7%8E%BB%E7%92%83%E5%A5%B3%E5%B7%AB(Witchcrafter%20Madame%20Verre).png)
  </details>
  
- </details></details>
+ </details>
  
  <details>
  
@@ -103,4 +109,4 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/98104f5414c3a807d66a97a0eefbd67579e72228/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD-%E5%A5%B3%E4%BB%86%E9%AD%94%E5%A5%B3(August).png)
  </details>
  
- </details></details>
+ </details>
