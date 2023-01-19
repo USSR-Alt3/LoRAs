@@ -23,6 +23,9 @@
  4. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
 
   # 更新日志(Update)：
+ - 2023-1-19
+   + 上传 明日方舟-闪灵(Arknights-Shining)
+   + 上传 明日方舟-闪灵-静谧午夜(Arknights-Shining-CoralCoast)
  - 2023-1-18
    + 上传 明日方舟-安洁莉娜-质素访客(Arknights-Angelina-Bloodline of Combat)
    + 上传 明日方舟-安洁莉娜-夏卉(Arknights-Angelina-CoralCoast)
@@ -77,6 +80,13 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C(Angelina).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E8%B4%A8%E7%B4%A0%E8%AE%BF%E5%AE%A2(Angelina).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E5%A4%8F%E5%8D%89(Angelina).png)
+ </details>
+ 
+ <details>
+ <summary>艾雅法拉+艾雅法拉-夏卉(Eyjafjalla)</summary>
+ 
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5(Shining).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5-%E9%9D%99%E8%B0%A7%E5%8D%88%E5%A4%9C(Shining-CoralCoast).png)
  </details>
  
  </details>
