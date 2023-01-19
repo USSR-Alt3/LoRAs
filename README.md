@@ -83,7 +83,7 @@
  </details>
  
  <details>
- <summary>艾雅法拉+艾雅法拉-夏卉(Eyjafjalla)</summary>
+ <summary>闪灵+闪灵-静谧午夜(Shining)</summary>
  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5(Shining).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5-%E9%9D%99%E8%B0%A7%E5%8D%88%E5%A4%9C(Shining-CoralCoast).png)
