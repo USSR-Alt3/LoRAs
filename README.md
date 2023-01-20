@@ -23,6 +23,9 @@
  4. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
 
   # 更新日志(Update)：
+ - 2023-1-20
+   + 上传 明日方舟-夜莺(Arknights-Nightingale)
+   + 上传 明日方舟-夜莺-挽歌(Arknights-Nightingale-WitchFeast)
  - 2023-1-19
    + 上传 明日方舟-闪灵(Arknights-Shining)
    + 上传 明日方舟-闪灵-静谧午夜(Arknights-Shining-CoralCoast)
@@ -89,11 +92,19 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5-%E9%9D%99%E8%B0%A7%E5%8D%88%E5%A4%9C(Shining-CoralCoast).png)
  </details>
  
+ <details>
+ <summary>夜莺+夜莺-挽歌(Nightingale)</summary>
+ 
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA(Nightingale).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA-%E6%8C%BD%E6%AD%8C(Nightingale-WitchFeast).png)
+ </details>
+ 
  </details>
  
  <details>
  
  <summary>游戏王(YGO-OCG)</summary>
+ 
  <details>
  <summary>白银城的拉比林斯(Labrynth of the Silver Castle)</summary>
     
