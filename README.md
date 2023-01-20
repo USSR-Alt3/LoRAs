@@ -37,7 +37,7 @@
    + 上传 明日方舟-安洁莉娜-质素访客(Arknights-Angelina-Bloodline of Combat)
    + 上传 明日方舟-安洁莉娜-夏卉(Arknights-Angelina-CoralCoast)
  - 2023-1-17
-   + 上传 明日方舟-能天使(Arknights-Exia)
+   + 上传 明日方舟-能天使(Arknights-Exusiai)
    + 上传 明日方舟-推进之王(Arknights-Siege)
    + 上传 明日方舟-伊芙利特(Arknights-Ifrit)
    + 上传 明日方舟-伊芙利特-日晒(Arknights-Ifrit-CoralCoast)
@@ -56,7 +56,7 @@
  <summary>明日方舟(Arknights)</summary>
  
  <details>
- <summary>能天使(Exia)</summary>
+ <summary>能天使(Exusiai)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/63e989d04be7c2cc2d39106a28699dc89fc74e2b/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%83%BD%E5%A4%A9%E4%BD%BF(Exia).png)
  </details>
