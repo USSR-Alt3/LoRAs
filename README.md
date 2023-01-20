@@ -22,6 +22,10 @@
    
  4. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
 
+  # 懒人下载(Download directly):
+  
+ ## `git clone https://github.com/USSR-Alt3/Embeddings.git`
+
   # 更新日志(Update)：
  - 2023-1-20
    + 上传 明日方舟-夜莺(Arknights-Nightingale)
