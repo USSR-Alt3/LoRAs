@@ -27,6 +27,8 @@
  ## `git clone https://github.com/USSR-Alt3/Embeddings.git`
 
   # 更新日志(Update)：
+ - 2023-1-21
+   + 上传 明日方舟-星熊(Arknights-Hoshiguma)
  - 2023-1-20
    + 上传 明日方舟-夜莺(Arknights-Nightingale)
    + 上传 明日方舟-夜莺-挽歌(Arknights-Nightingale-WitchFeast)
@@ -101,6 +103,13 @@
  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA(Nightingale).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA-%E6%8C%BD%E6%AD%8C(Nightingale-WitchFeast).png)
+ </details>
+ 
+ <details>
+ <summary>星熊+星熊-狩标浪人(Hoshiguma)</summary>
+ 
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/01ff3aa3b4f936a60af23315b5184c5e885b795d/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A(Hoshiguma).png)
+ ![]()
  </details>
  
  </details>
