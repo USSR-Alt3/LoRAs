@@ -29,6 +29,7 @@
   # 更新日志(Update)：
  - 2023-1-21
    + 上传 明日方舟-星熊(Arknights-Hoshiguma)
+   + 上传 明日方舟-星熊(Arknights-Hoshiguma-TempestSeries)
  - 2023-1-20
    + 上传 明日方舟-夜莺(Arknights-Nightingale)
    + 上传 明日方舟-夜莺-挽歌(Arknights-Nightingale-WitchFeast)
@@ -109,7 +110,7 @@
  <summary>星熊+星熊-狩标浪人(Hoshiguma)</summary>
  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/01ff3aa3b4f936a60af23315b5184c5e885b795d/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A(Hoshiguma).png)
- ![]()
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/407cdd7593b8a4096062a6358aade9648d2d5216/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma).png)
  </details>
  
  </details>
