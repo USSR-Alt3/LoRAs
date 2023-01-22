@@ -28,6 +28,8 @@
 
   # 更新日志(Update)：
  - 2023-1-21
+   + 上传 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
+ - 2023-1-21
    + 上传 明日方舟-星熊(Arknights-Hoshiguma)
    + 上传 明日方舟-星熊(Arknights-Hoshiguma-TempestSeries)
  - 2023-1-20
@@ -126,6 +128,12 @@
  </details>
  
  <details>
+ <summary>游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)</summary>
+    
+ ![]()
+ </details>
+
+<details>
  <summary>魔女术名匠·玻璃女巫(Witchcrafter Madame Verre)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/98104f5414c3a807d66a97a0eefbd67579e72228/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%AD%94%E5%A5%B3%E6%9C%AF%E5%90%8D%E5%8C%A0%C2%B7%E7%8E%BB%E7%92%83%E5%A5%B3%E5%B7%AB(Witchcrafter%20Madame%20Verre).png)
