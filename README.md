@@ -138,7 +138,7 @@
 <details>
  <summary>游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)</summary>
     
- ![]()
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/879be0860b3a9643e1784552da35e493708b5b77/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%90%89%E5%A8%9C%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Vesiculo).png)
  </details>
 
 <details>
