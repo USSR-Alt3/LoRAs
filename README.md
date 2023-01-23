@@ -27,7 +27,9 @@
  ## `git clone https://github.com/USSR-Alt3/Embeddings.git`
 
   # 更新日志(Update)：
- - 2023-1-21
+ - 2023-1-23
+   + 上传 游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)
+ - 2023-1-22
    + 上传 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
  - 2023-1-21
    + 上传 明日方舟-星熊(Arknights-Hoshiguma)
@@ -131,6 +133,12 @@
  <summary>游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/b8a5a7804d5e5fe3bc3004483948b6922adab368/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%8A%99%E8%8E%89%E8%A5%BF%E4%BA%9A%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Rafflesia).png)
+ </details>
+
+<details>
+ <summary>游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)</summary>
+    
+ ![]()
  </details>
 
 <details>
