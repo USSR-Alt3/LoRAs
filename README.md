@@ -331,8 +331,8 @@
  <details>
  <summary>奥古斯都+奥古斯都-女仆魔女(August)</summary>
  
- ![]()
- ![]()
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/d30644dbc99e9277abc0b2f9bbd1b8be59e0c29b/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD(August).png)
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/d30644dbc99e9277abc0b2f9bbd1b8be59e0c29b/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD-%E5%A5%B3%E4%BB%86%E9%AD%94%E5%A5%B3(August-MaidWitch).png)
  </details>
  
  </details>
