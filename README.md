@@ -58,7 +58,8 @@
 
   # 更新日志(Update)：
  <details>
- - <summary>2023/2/1</summary>
+ <summary>2023/2/1</summary>
+
    + 更新 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
    + 上传 游戏王-阿蒂普丝之虫惑魔(YGO-OCG-Traptrix Atypus)
    + 上传 游戏王-阿洛美勒丝之虫惑魔(YGO-OCG-Traptrix Allomerus)
@@ -72,6 +73,7 @@
    + 上传 游戏王-塞拉之虫惑魔(YGO-OCG-Traptrix Sera)
    + 上传 游戏王-特莱恩之虫惑魔(YGO-OCG-Traptrix Myrmeleo)
    + 上传 游戏王-西托莉丝之虫惑魔(YGO-OCG-Traptrix Pinguicula)
+
  </details>
  - 2023-1-23
    + 上传 游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)
