@@ -103,67 +103,48 @@
   # 以下是预览图(Preview)：
  
  <details>
-
-
  <summary>明日方舟(Arknights)</summary>
-
-
  <details>
- <summary>能天使(Exusiai)</summary>
-    
+ <summary>六星干员(Rare 6)</summary>
+ <details>
+ <summary>能天使(Exusiai)</summary>  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/63e989d04be7c2cc2d39106a28699dc89fc74e2b/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%83%BD%E5%A4%A9%E4%BD%BF(Exia).png)
  </details>
- 
  <details>
- <summary>推进之王(Siege)</summary>
-    
+ <summary>推进之王(Siege)</summary>  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B(Siege).png)
  </details>
- 
  <details>
- <summary>伊芙利特+伊芙利特-日晒(Ifrit)</summary>
-    
+ <summary>伊芙利特+伊芙利特-日晒(Ifrit)</summary>  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/004bb95cd435dd684d8395290a7edb7b52232435/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9(Ifrit).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9-%E6%97%A5%E6%99%92(Ifrit-CoralCoast).png)
  </details>
- 
  <details>
  <summary>艾雅法拉+艾雅法拉-夏卉(Eyjafjalla)</summary>
- 
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89(Eyjafjalla).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89-%E5%A4%8F%E5%8D%89(Eyjafjalla-CoralCoast).png)
  </details>
- 
  <details>
- <summary>安洁莉娜+安洁莉娜-质素访客+安洁莉娜-夏卉(Angelina)</summary>
-    
+ <summary>安洁莉娜+安洁莉娜-质素访客+安洁莉娜-夏卉(Angelina)</summary>   
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C(Angelina).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E8%B4%A8%E7%B4%A0%E8%AE%BF%E5%AE%A2(Angelina-Bloodline%20of%20Combat).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E5%A4%8F%E5%8D%89(Angelina-CoralCoast).png)
  </details>
- 
  <details>
  <summary>闪灵+闪灵-静谧午夜(Shining)</summary>
- 
  ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5(Shining).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/4a8aa4c32775fe2d9d5d4c1bdf3a508a7cd4ea86/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%97%AA%E7%81%B5-%E9%9D%99%E8%B0%A7%E5%8D%88%E5%A4%9C(Shining-CoralCoast).png)
- </details>
- 
+ </details> 
  <details>
- <summary>夜莺+夜莺-挽歌(Nightingale)</summary>
- 
+ <summary>夜莺+夜莺-挽歌(Nightingale)</summary> 
  ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA(Nightingale).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/5cb122741d80700991a8e9dfa3f2543069135881/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A4%9C%E8%8E%BA-%E6%8C%BD%E6%AD%8C(Nightingale-WitchFeast).png)
  </details>
- 
  <details>
- <summary>星熊+星熊-狩标浪人(Hoshiguma)</summary>
- 
+ <summary>星熊+星熊-狩标浪人(Hoshiguma)</summary> 
  ![](https://github.com/USSR-Alt3/Embeddings/blob/01ff3aa3b4f936a60af23315b5184c5e885b795d/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A(Hoshiguma).png)
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma-TempestSeries).png)
  </details>
- 
-
  </details>
 
 
