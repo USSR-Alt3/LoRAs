@@ -146,6 +146,7 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma-TempestSeries).png)
  </details>
  </details>
+ </details>
 
 
  <details>
