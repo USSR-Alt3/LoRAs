@@ -57,6 +57,7 @@
  ## `git clone https://github.com/USSR-Alt3/Embeddings.git`
 
   # 更新日志(Update)：
+
  <details>
  <summary>2023/2/1</summary>
 
@@ -75,23 +76,56 @@
    + 上传 游戏王-西托莉丝之虫惑魔(YGO-OCG-Traptrix Pinguicula)
 
  </details>
- - 2023-1-23
+
+ <details>
+ <summary>2023-1-23</summary>
+
    + 上传 游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)
- - 2023-1-22
+
+ </details>
+
+ <details>
+ <summary>2023-1-22</summary>
+
    + 上传 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
- - 2023-1-21
+
+ </details>
+
+ <details>
+ <summary>2023-1-21</summary>
+
    + 上传 明日方舟-星熊(Arknights-Hoshiguma)
    + 上传 明日方舟-星熊(Arknights-Hoshiguma-TempestSeries)
- - 2023-1-20
+
+ </details>
+
+ <details>
+ <summary>2023-1-20</summary>
+
    + 上传 明日方舟-夜莺(Arknights-Nightingale)
    + 上传 明日方舟-夜莺-挽歌(Arknights-Nightingale-WitchFeast)
- - 2023-1-19
+
+ </details>
+
+ <details>
+ <summary>2023-1-19</summary>
+
    + 上传 明日方舟-闪灵(Arknights-Shining)
    + 上传 明日方舟-闪灵-静谧午夜(Arknights-Shining-CoralCoast)
- - 2023-1-18
+
+ </details>
+
+ <details>
+ <summary>2023-1-18</summary>
+
    + 上传 明日方舟-安洁莉娜-质素访客(Arknights-Angelina-Bloodline of Combat)
    + 上传 明日方舟-安洁莉娜-夏卉(Arknights-Angelina-CoralCoast)
- - 2023-1-17
+
+ </details>
+
+ <details>
+ <summary>2023-1-17</summary>
+
    + 上传 明日方舟-能天使(Arknights-Exusiai)
    + 上传 明日方舟-推进之王(Arknights-Siege)
    + 上传 明日方舟-伊芙利特(Arknights-Ifrit)
@@ -103,6 +137,8 @@
    + 上传 游戏王-白银城的拉比林斯(YGO-OCG-Labrynth of the silver castle)
    + 上传 碧蓝航线-奥古斯都(AzurLune-August)
    + 上传 碧蓝航线-奥古斯都-女仆魔女(AzurLune-August-MaidWitch)
+
+ <details>
  
   # 以下是预览图(Preview)：
  
