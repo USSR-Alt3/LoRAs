@@ -57,6 +57,20 @@
  ## `git clone https://github.com/USSR-Alt3/Embeddings.git`
 
   # 更新日志(Update)：
+ - 2023/2/1
+   + 更新 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
+   + 上传 游戏王-阿蒂普丝之虫惑魔(YGO-OCG-Traptrix Atypus)
+   + 上传 游戏王-阿洛美勒丝之虫惑魔(YGO-OCG-Traptrix Allomerus)
+   + 上传 游戏王-阿特拉之虫惑魔(YGO-OCG-Traptrix Atrax)
+   + 上传 游戏王-蒂奥之虫惑魔(YGO-OCG-Traptrix Dionaea)
+   + 上传 游戏王-基诺之虫惑魔(YGO-OCG-Traptrix Arachnocampa)
+   + 上传 游戏王-库拉莉亚之虫惑魔(YGO-OCG-Traptrix Cularia)
+   + 上传 游戏王-兰卡之虫惑魔(YGO-OCG-Traptrix Mantis)
+   + 上传 游戏王-莉塞之虫惑魔(YGO-OCG-Traptrix  Genlisea)
+   + 上传 游戏王-普蒂卡之虫惑魔(YGO-OCG-Traptrix Pudica)
+   + 上传 游戏王-塞拉之虫惑魔(YGO-OCG-Traptrix Sera)
+   + 上传 游戏王-特莱恩之虫惑魔(YGO-OCG-Traptrix Myrmeleo)
+   + 上传 游戏王-西托莉丝之虫惑魔(YGO-OCG-Traptrix Pinguicula)
  - 2023-1-23
    + 上传 游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)
  - 2023-1-22
@@ -89,9 +103,11 @@
   # 以下是预览图(Preview)：
  
  <details>
- 
+
+
  <summary>明日方舟(Arknights)</summary>
- 
+
+
  <details>
  <summary>能天使(Exusiai)</summary>
     
@@ -108,22 +124,22 @@
  <summary>伊芙利特+伊芙利特-日晒(Ifrit)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/004bb95cd435dd684d8395290a7edb7b52232435/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9(Ifrit).png)
- ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9-%E6%97%A5%E6%99%92(Ifrit).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9-%E6%97%A5%E6%99%92(Ifrit-CoralCoast).png)
  </details>
  
  <details>
  <summary>艾雅法拉+艾雅法拉-夏卉(Eyjafjalla)</summary>
  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89(Eyjafjalla).png)
- ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89-%E5%A4%8F%E5%8D%89(Eyjafjalla).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89-%E5%A4%8F%E5%8D%89(Eyjafjalla-CoralCoast).png)
  </details>
  
  <details>
  <summary>安洁莉娜+安洁莉娜-质素访客+安洁莉娜-夏卉(Angelina)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/0d842f2f6290f5c16a18a15dbc899acd9b2cb360/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C(Angelina).png)
- ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E8%B4%A8%E7%B4%A0%E8%AE%BF%E5%AE%A2(Angelina).png)
- ![](https://github.com/USSR-Alt3/Embeddings/blob/683293c71bb840dad055e38c038d1d1a9a2fbc6f/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E5%A4%8F%E5%8D%89(Angelina).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E8%B4%A8%E7%B4%A0%E8%AE%BF%E5%AE%A2(Angelina-Bloodline%20of%20Combat).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C-%E5%A4%8F%E5%8D%89(Angelina-CoralCoast).png)
  </details>
  
  <details>
@@ -144,11 +160,13 @@
  <summary>星熊+星熊-狩标浪人(Hoshiguma)</summary>
  
  ![](https://github.com/USSR-Alt3/Embeddings/blob/01ff3aa3b4f936a60af23315b5184c5e885b795d/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A(Hoshiguma).png)
- ![](https://github.com/USSR-Alt3/Embeddings/blob/407cdd7593b8a4096062a6358aade9648d2d5216/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma-TempestSeries).png)
  </details>
  
+
  </details>
- 
+
+
  <details>
  
  <summary>游戏王(YGO-OCG)</summary>
@@ -160,13 +178,15 @@
  </details>
  
  <details>
- <summary>游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)</summary>
+ <summary>虫惑魔(Traptrix)</summary>
+ <details>
+ <summary>游戏王-芙莉西亚之虫惑魔(Traptrix Rafflesia)</summary>
     
- ![](https://github.com/USSR-Alt3/Embeddings/blob/b8a5a7804d5e5fe3bc3004483948b6922adab368/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%8A%99%E8%8E%89%E8%A5%BF%E4%BA%9A%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Rafflesia).png)
+ ![](https://github.com/USSR-Alt3/Embeddings/blob/984516787da8de01a6f385fd0a164f8dc2f46128/%E9%A2%84%E8%A7%88%E5%9B%BE/%E8%8A%99%E8%8E%89%E8%A5%BF%E4%BA%9A%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Rafflesia).png)
  </details>
 
 <details>
- <summary>游戏王-吉娜之虫惑魔(YGO-OCG-Traptrix Vesiculo)</summary>
+ <summary>游戏王-吉娜之虫惑魔(Traptrix Vesiculo)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings/blob/879be0860b3a9643e1784552da35e493708b5b77/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%90%89%E5%A8%9C%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Vesiculo).png)
  </details>
@@ -177,8 +197,11 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/98104f5414c3a807d66a97a0eefbd67579e72228/%E9%A2%84%E8%A7%88%E5%9B%BE/%E9%AD%94%E5%A5%B3%E6%9C%AF%E5%90%8D%E5%8C%A0%C2%B7%E7%8E%BB%E7%92%83%E5%A5%B3%E5%B7%AB(Witchcrafter%20Madame%20Verre).png)
  </details>
  
+
  </details>
  
+
+
  <details>
  
  <summary>碧蓝航线(AzurLune)</summary>
@@ -190,4 +213,5 @@
  ![](https://github.com/USSR-Alt3/Embeddings/blob/98104f5414c3a807d66a97a0eefbd67579e72228/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD-%E5%A5%B3%E4%BB%86%E9%AD%94%E5%A5%B3(August).png)
  </details>
  
+
  </details>
