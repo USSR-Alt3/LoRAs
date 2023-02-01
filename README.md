@@ -1,26 +1,56 @@
   # 重要事项注意！(Important!)：
  ## 简短声明，幸运点进来的人最好看一下：
   
- 1. 私炉古法炼丹，主要供AI绘画同好以及群友交流使用，应该...大概持续更新？
+ 1. 私炉古法炼丹，现在正在整LoRa，主要供AI绘画同好以及群友交流使用，应该...大概持续更新？
     本人企鹅号2481436585，如非交流炼丹经验请勿骚扰。
     
- 2. 下载的pt文件直接丢进Webui根目录下`Embeddings`文件夹，使用时`XXX.pt`对应的要输入的提示词就是`XXX`。
+ 2. 注意文件大小，在本仓库内KB级pt文件均为EMB模型，MB级safetensors文件均为LoRa模型，使用方式有所区别。
+
+ 3. EMB模型的使用：
+
+    放入`...\stable-diffusion-webui\Embeddings`目录下，使用`XXX.pt`模型时对应的要输入的提示词就是`XXX`。
+
+ 4. LoRa模型的使用：
+
+    首先，确定自己的Webui为最新的2023稳定版本。
+
+    然后，在“扩展”页面中安装`sd-webui-additional-networks`,或在`...\stable-diffusion-webui\Embeddings\extensions`目录下执行以下命令进行安装：
+
+     `git clone https://github.com/kohya-ss/sd-webui-additional-networks.git`
+
+    之后，将下载的LoRa模型放入`.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`下。
+
+    使用`XXX~xxx.safetensors`模型时,确保正确安装上述扩展打开Webui，在`Additional Networks`中选择需要使用的模型，并调整权重，且务必记得勾选`Enable`，输入模型对应文件名中`xxx`作为提示词可增强角色还原度。
+
+ 5. 如需用于发表的作品，请于简介附上本工程链接。
    
- 3. 如需用于发表的作品，请于简介附上本工程链接。
-   
- 4. 所有文件禁止转载！更不能无耻地偷去赚小白的米！
+ 6. 所有文件禁止转载！更不能无耻地偷去赚小白的米！
  
- 5. 没了，谁想到能叠的甲联系我一下。
+ 7. 没了，谁想到能叠的甲联系我一下。
    
  ## A terse statement,for those lucky to come to this project：
    
- 1. Anime and game characters‘ embeddings developed by USSR,are used for AI painting and communicating in our group.I'll contine updating this project in idle         time,maybe?
+ 1. Anime and game characters‘ embeddings and LoRas developed by USSR,are used for AI painting and communicating in our group.I'll contine updating this project in idle time,maybe?
+
+ 2. Take care to the size of files.In this responsibility,`XXX.pt` means this file an Embedding model,and `XXX~xxx.safetensors` means a LoRa model.
  
- 2. Put files `XXX.pt` into your `Embeddings` folder in Webui root folder,when using embeddings, input `XXX` to use `XXX.pt`.
+ 3. How to use Embeddings:
+
+     Put Embedding models like `XXX.pt` into folder `...\stable-diffusion-webui\Embeddings`,when using,input `XXX` to use `XXX.pt`.
+
+ 4. How to use LoRas:
+
+    First,make sure your Webui is the latest stable version of 2023.
+
+    Then,open the page `Extensions` to install the extension `sd-webui-additional-networks`.
+
+    Next,put LoRa models like `XXX~xxx.safetensors` into folder `.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`.
+
+    At last,make sure you correctly install the extension,so that you can enable models at `Additional Networks`,and you can input `xxx` in the corresponding model name `XXX~xxx.safetensors`,to enhance the characters' similarity.
    
- 3. If you wanna use these files to publish artwork on webs like Pixiv or Twitter,please indicating this project's link.
+ 5. If you wanna use these files to publish artwork on webs like Pixiv or Twitter,please indicating this project's link.
    
- 4. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
+ 6. All files of this project are forbidden to be reproduced!Also can't be used for profit or defrauded those new guys!
 
   # 懒人下载(Download directly):
   
