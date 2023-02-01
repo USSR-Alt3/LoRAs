@@ -138,7 +138,7 @@
    + 上传 碧蓝航线-奥古斯都(AzurLune-August)
    + 上传 碧蓝航线-奥古斯都-女仆魔女(AzurLune-August-MaidWitch)
 
- <details>
+ </details>
  
   # 以下是预览图(Preview)：
  
