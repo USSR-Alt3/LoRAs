@@ -61,6 +61,14 @@
  <details>
  <summary>2023/2/1</summary>
 
+   + 上传 游戏王-卡祖拉之虫惑魔(YGO-OCG-Traptrix Nepenthes)
+   + 上传 游戏王-破洞露蒂亚之虫惑魔(YGO-OCG-Traptrix Holetaea)
+
+ </details>
+
+ <details>
+ <summary>2023/2/1</summary>
+
    + 更新 游戏王-芙莉西亚之虫惑魔(YGO-OCG-Traptrix Rafflesia)
    + 上传 游戏王-阿蒂普丝之虫惑魔(YGO-OCG-Traptrix Atypus)
    + 上传 游戏王-阿洛美勒丝之虫惑魔(YGO-OCG-Traptrix Allomerus)
@@ -286,6 +294,12 @@
  </details>
 
  <details>
+ <summary>游戏王-卡祖拉之虫惑魔(Traptrix Nepenthes)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
  <summary>游戏王-吉娜之虫惑魔(Traptrix Vesiculo)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/4bdbb8f62f381d412c1fe5a38c4435f54bbfbd93/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%90%89%E5%A8%9C%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Vesiculo).png)
@@ -307,6 +321,12 @@
  <summary>游戏王-普蒂卡之虫惑魔(Traptrix Pudica)</summary>
     
  ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/4bdbb8f62f381d412c1fe5a38c4435f54bbfbd93/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%99%AE%E8%92%82%E5%8D%A1%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Pudica).png)
+ </details>
+
+ <details>
+ <summary>游戏王-破洞露蒂亚之虫惑魔(Traptrix Holetaea)</summary>
+    
+ ![]()
  </details>
 
  </details>
