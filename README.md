@@ -296,7 +296,7 @@
  <details>
  <summary>游戏王-卡祖拉之虫惑魔(Traptrix Nepenthes)</summary>
     
- ![]()
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/d88296a5c7535fc788b4d6f814c1f21f95c086f5/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%8D%A1%E7%A5%96%E6%8B%89%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Nepenthes).png)
  </details>
 
  <details>
@@ -326,7 +326,7 @@
  <details>
  <summary>游戏王-破洞露蒂亚之虫惑魔(Traptrix Holetaea)</summary>
     
- ![]()
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/d88296a5c7535fc788b4d6f814c1f21f95c086f5/%E9%A2%84%E8%A7%88%E5%9B%BE/%E7%A0%B4%E6%B4%9E%E9%9C%B2%E8%92%82%E4%BA%9A%E4%B9%8B%E8%99%AB%E6%83%91%E9%AD%94(Traptrix%20Holetaea).png)
  </details>
 
  </details>
