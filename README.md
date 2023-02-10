@@ -59,7 +59,7 @@
   # 更新日志(Update)：
 
  <details>
- <summary>2023/2/1</summary>
+ <summary>2023/2/2</summary>
 
    + 上传 游戏王-卡祖拉之虫惑魔(YGO-OCG-Traptrix Nepenthes)
    + 上传 游戏王-破洞露蒂亚之虫惑魔(YGO-OCG-Traptrix Holetaea)
