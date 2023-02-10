@@ -8,19 +8,17 @@
 
  3. EMB模型的使用：
 
-    放入`...\stable-diffusion-webui\Embeddings`目录下，使用`XXX.pt`模型时对应的要输入的提示词就是`XXX`。
+    放入`...\stable-diffusion-webui\Embeddings`路径下，使用形如`XXX.pt`模型时对应的要输入的提示词就是`XXX`。
 
- 4. LoRa模型的使用：
+ 4. LoRA模型的使用：
 
-    首先，确定自己的Webui为最新的2023稳定版本。
+    首先，确定自己的Webui为最新的2023稳定版本，此版本的Webui已可使用`<lora:LoRA模型文件名:权重>`格式的提示词进行LoRA模型的调用。
+    
+    如进行这种使用方式，请将LoRA模型放入`.\stable-diffusion-webui\models\Lora`路径下。
 
-    然后，在“扩展”页面中安装`sd-webui-additional-networks`,或在`...\stable-diffusion-webui\Embeddings\extensions`目录下执行以下命令进行安装：
+    或者，在“扩展”页面中安装`sd-webui-additional-networks`后,将下载的LoRa模型放入`.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`路径下。
 
-     `git clone https://github.com/kohya-ss/sd-webui-additional-networks.git`
-
-    之后，将下载的LoRa模型放入`.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`下。
-
-    使用`XXX~xxx.safetensors`模型时,确保正确安装上述扩展打开Webui，在`Additional Networks`中选择需要使用的模型，并调整权重，且务必记得勾选`Enable`，输入模型对应文件名中`xxx`作为提示词可增强角色还原度。
+    使用形如`XXX~xxx.safetensors`模型时,确保正确安装上述扩展后打开Webui，在`Additional Networks`中选择需要使用的模型，并调整权重，且务必记得勾选`Enable`，输入模型对应文件名中`xxx`作为提示词，推荐同时使用角色对应EMB模型,可增强角色还原度。
 
  5. 如需用于发表的作品，请于简介附上本工程链接。
    
@@ -30,23 +28,25 @@
    
  ## A terse statement,for those lucky to come to this project：
    
- 1. Anime and game characters‘ embeddings and LoRas developed by USSR,are used for AI painting and communicating in our group.I'll contine updating this project in idle time,maybe?
+ 1. Anime and game characters‘ Embeddings and LoRAs developed by USSR,are used for AI painting communication in our group.I'll contine updating this project in idle time,maybe?
 
  2. Take care to the size of files.In this responsibility,`XXX.pt` means this file an Embedding model,and `XXX~xxx.safetensors` means a LoRa model.
  
  3. How to use Embeddings:
 
-     Put Embedding models like `XXX.pt` into folder `...\stable-diffusion-webui\Embeddings`,when using,input `XXX` to use `XXX.pt`.
+     Put Embedding models like `XXX.pt` into folder `...\stable-diffusion-webui\Embeddings`,when using,input `XXX` to invoke `XXX.pt`.
 
- 4. How to use LoRas:
+ 4. How to use LoRAs:
 
-    First,make sure your Webui is the latest stable version of 2023.
+    First,make sure your Webui is the latest stable version of 2023,all versions after 2023/2/6 can invoke LoRAs by inputing tag like `<lora:filename:weight>`.
+    
+    If using this way,put LoRA models into folder `.\stable-diffusion-webui\models\Lora`.
 
-    Then,open the page `Extensions` to install the extension `sd-webui-additional-networks`.
+    Or,open the page `Extensions` to install the extension `sd-webui-additional-networks`.
 
-    Next,put LoRa models like `XXX~xxx.safetensors` into folder `.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`.
+    Next,put LoRA models like `XXX~xxx.safetensors` into folder `.\stable-diffusion-webui\extensions\sd-webui-additional-networks\models\lora`.
 
-    At last,make sure you correctly install the extension,so that you can enable models at `Additional Networks`,and you can input `xxx` in the corresponding model name `XXX~xxx.safetensors`,to enhance the characters' similarity.
+    At last,make sure you correctly install the extension,so that you can enable LoRAs at `Additional Networks`,and input `xxx` in the corresponding model name `XXX~xxx.safetensors`,also recommanding corresponding Embedding together to enhance the characters' similarity.
    
  5. If you wanna use these files to publish artwork on webs like Pixiv or Twitter,please indicating this project's link.
    
