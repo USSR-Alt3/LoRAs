@@ -219,6 +219,13 @@
  ![](https://github.com/USSR-Alt3/Embeddings-and-LoRas/blob/4bdbb8f62f381d412c1fe5a38c4435f54bbfbd93/%E9%A2%84%E8%A7%88%E5%9B%BE/%E6%98%9F%E7%86%8A-%E7%8B%A9%E6%A0%87%E6%B5%AA%E4%BA%BA(Hoshiguma-TempestSeries).png)
  </details>
 
+ <details>
+ <summary>塞雷娅+塞雷娅-铁律(Hoshiguma)</summary> 
+
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRAs/blob/b28207c9727f57a741cf30b7b5482d1676fd280c/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A1%9E%E9%9B%B7%E5%A8%85(Saria).png)
+ ![](https://github.com/USSR-Alt3/Embeddings-and-LoRAs/blob/b28207c9727f57a741cf30b7b5482d1676fd280c/%E9%A2%84%E8%A7%88%E5%9B%BE/%E5%A1%9E%E9%9B%B7%E5%A8%85-%E9%93%81%E5%BE%8B(Saria-TestCollection).png)
+ </details>
+ 
  </details>
 
  </details>
