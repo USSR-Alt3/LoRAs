@@ -1,0 +1,2 @@
+Elite0:exusiai_overeye,halo,coat
+Elite2:exusiai_betweeneyes,halo,open_coat

@@ -1,0 +1,2 @@
+Elite0:skadi,hat,capelet,navel_cutout
+Elite2:skadi

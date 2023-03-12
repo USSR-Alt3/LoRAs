@@ -1,0 +1,4 @@
+exusiai-testcollection,halo,headset
+
+WARNING:This model is awful,being trained by a terrible dataset which even cannot collect over 20 piece.Might be remade.
+

@@ -1,0 +1,2 @@
+Elite0:shining,horns,hood,cloak
+Elite2:shining,horns,

@@ -1,0 +1,2 @@
+No hat:skadi-coralcoast
+With hat:skadi-coralcoast_hat

@@ -1,0 +1,3 @@
+holetaea,tattoo
+
+WARNING:This model is awful,being trained by a terrible dataset consisted of a large number of screenshots from Koikatsu.

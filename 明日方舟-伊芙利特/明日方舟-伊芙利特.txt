@@ -1,0 +1,2 @@
+Elite0:ifrit_whitedress,horns
+Elite2:ifrit_blackdress,horns

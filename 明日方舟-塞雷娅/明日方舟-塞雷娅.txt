@@ -1,0 +1,2 @@
+Elite0:saria_skirt,horns,
+Elite2:saria_coat,horns,
