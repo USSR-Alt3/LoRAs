@@ -50,7 +50,22 @@
 
   # 更新日志(Update)：
 
-<details>
+ <details>
+ <summary>2023/3/14</summary>
+
+   + 上传 游戏王-邪恶★双子·姬丝基勒(YGO-Evil★Twins Ki-sikil)
+   + 上传 游戏王-邪恶★双子·姬丝基勒异画(YGO-Evil★Twins Ki-sikil[SLF1])
+   + 上传 游戏王-直播★双子·姬丝基勒(YGO-Live★Twins Ki-sikil)
+   + 上传 游戏王-直播★双子·姬丝基勒·霜精(YGO-Live★Twins Ki-sikil Frost)
+   + 上传 游戏王-邪恶★双子·璃拉(YGO-Evil★Twins Lil-la)
+   + 上传 游戏王-邪恶★双子·璃拉异画(YGO-Evil★Twins Lil-la[SLF1])
+   + 上传 游戏王-直播★双子·璃拉(YGO-Live★Twins Lil-la)
+   + 上传 游戏王-直播★双子·璃拉·糖果(YGO-Live★Twins Lil-la Treat)
+   + 上传 游戏王-邪恶★双子克星·麻烦★桑妮(YGO-Evil★Twin's Trouble Sunny)
+
+ </details>
+
+ <details>
  <summary>2023/3/12</summary>
 
    + 更新 所有模型
@@ -144,6 +159,65 @@
  ![]()
  </details>
 
+ </details>
+
+<details>
+ <summary>双子(Live★Twins/Evil★Twins)</summary>
+
+ <details>
+ <summary>邪恶★双子·姬丝基勒(YGO-Evil★Twins Ki-sikil)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>邪恶★双子·姬丝基勒异画(YGO-Evil★Twins Ki-sikil[SLF1])</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>直播★双子·姬丝基勒(YGO-Live★Twins Ki-sikil)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>直播★双子·姬丝基勒·霜精(YGO-Live★Twins Ki-sikil Frost)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>邪恶★双子·璃拉(YGO-Evil★Twins Lil-la)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>邪恶★双子·璃拉异画(YGO-Evil★Twins Lil-la[SLF1])</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>直播★双子·璃拉(YGO-Live★Twins Lil-la)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>直播★双子·璃拉(YGO-Live★Twins Lil-la Treat)</summary>
+    
+ ![]()
+ </details>
+
+ <details>
+ <summary>邪恶★双子克星·麻烦★桑妮(YGO-Evil★Twin's Trouble Sunny)</summary>
+    
+ ![]()
+ </details>
+ 
  </details>
  
  <details>
