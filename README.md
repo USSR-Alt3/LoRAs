@@ -51,6 +51,22 @@
   # 更新日志(Update)：
 
  <details>
+ <summary>2023/3/20</summary>
+
+   + 上传 明日方舟-陈(Arknights-Ch'en)
+   + 上传 明日方舟-陈-岁红霞(Arknights-Ch'en-0011Craft)
+   + 上传 明日方舟-假日威龙陈(Arknights-Ch'en the Holungday)
+   + 上传 明日方舟-黑(Arknights-Schwarz)
+   + 上传 明日方舟-黑-厚礼(Arknights-Schwarz-IcefieldMessenger)
+   + 上传 明日方舟-黑-天际线(Arknights-Schwarz-RaytheanStriker)
+   + 上传 明日方舟-黑-一周年礼服(Arknights-Schwarz-Anniversary1)
+   + 上传 明日方舟-黑-二周年旗袍(Arknights-Schwarz-Anniversary2)
+   + 上传 明日方舟-麒麟X夜刀(Arknights-Kirin X Yato)
+
+ </details>
+
+
+ <details>
  <summary>2023/3/14</summary>
 
    + 上传 游戏王-邪恶★双子·姬丝基勒(YGO-Evil★Twins Ki-sikil)
@@ -136,7 +152,32 @@
  </details>
 
  <details>
- <summary>塞雷娅+塞雷娅-坚城+塞雷娅-铁律(Hoshiguma)</summary> 
+ <summary>塞雷娅+塞雷娅-坚城+塞雷娅-铁律(Saria)</summary> 
+
+ ![]()
+ ![]()
+ </details>
+
+ <details>
+ <summary>陈+陈-岁红霞+假日威龙陈(Ch'en)</summary> 
+
+ ![]()
+ ![]()
+ ![]()
+ </details>
+
+ <details>
+ <summary>黑+黑-厚礼+黑-天际线+黑-一周年礼服+黑-二周年旗袍(Schwarz)</summary> 
+
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ </details>
+
+ <details>
+ <summary>夜刀+麒麟X夜刀(Yato)</summary> 
 
  ![]()
  ![]()
@@ -165,14 +206,9 @@
  <summary>双子(Live★Twins/Evil★Twins)</summary>
 
  <details>
- <summary>邪恶★双子·姬丝基勒(YGO-Evil★Twins Ki-sikil)</summary>
+ <summary>邪恶★双子·姬丝基勒+异画(YGO-Evil★Twins Ki-sikil)</summary>
     
  ![]()
- </details>
-
- <details>
- <summary>邪恶★双子·姬丝基勒异画(YGO-Evil★Twins Ki-sikil[SLF1])</summary>
-    
  ![]()
  </details>
 
@@ -189,14 +225,9 @@
  </details>
 
  <details>
- <summary>邪恶★双子·璃拉(YGO-Evil★Twins Lil-la)</summary>
+ <summary>邪恶★双子·璃拉+异画(YGO-Evil★Twins Lil-la)</summary>
     
  ![]()
- </details>
-
- <details>
- <summary>邪恶★双子·璃拉异画(YGO-Evil★Twins Lil-la[SLF1])</summary>
-    
  ![]()
  </details>
 
@@ -207,7 +238,7 @@
  </details>
 
  <details>
- <summary>直播★双子·璃拉(YGO-Live★Twins Lil-la Treat)</summary>
+ <summary>直播★双子·璃拉·糖果(YGO-Live★Twins Lil-la Treat)</summary>
     
  ![]()
  </details>

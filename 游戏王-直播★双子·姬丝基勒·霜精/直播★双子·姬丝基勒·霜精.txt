@@ -1,0 +1,3 @@
+ki-sikil-frost,tail,twintails,very_long_hair,hat,scrunchie,white_jacket,shorts
+
+WARNING:This model can be awful,being trained by a terrible dataset consisted of a large number of screenshots from Koikatsu.

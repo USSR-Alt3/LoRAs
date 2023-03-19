@@ -1,0 +1,3 @@
+lil-la-treat,wings,twintail,headwear,bandaged_leg,long_sleeves,wide_sleeves
+
+WARNING:This model can be awful,being trained by a terrible dataset consisted of a large number of screenshots from Koikatsu.

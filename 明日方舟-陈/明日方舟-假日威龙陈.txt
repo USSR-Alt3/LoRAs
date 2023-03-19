@@ -1,0 +1,2 @@
+Elite0:ch'en_the_holungday_cover,horns,tail,jacket,hat,sun_glasses
+Elite2:ch'en_the_holungday_remove,horns,tail,bikini,hair_flower

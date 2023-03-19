@@ -1,0 +1,2 @@
+Elite0:ch'en_cover,horns,tail,jacket,shorts,shin_guards
+Elite2:ch'en_remove,horns,tail,off-shoulder_coat,shorts,shin_guards
