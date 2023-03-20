@@ -53,6 +53,13 @@
  <details>
  <summary>2023/3/20</summary>
 
+   + 更新 明日方舟-陈(Arknights-Ch'en)
+
+ </details>
+
+ <details>
+ <summary>2023/3/19</summary>
+
    + 上传 明日方舟-陈(Arknights-Ch'en)
    + 上传 明日方舟-陈-岁红霞(Arknights-Ch'en-0011Craft)
    + 上传 明日方舟-假日威龙陈(Arknights-Ch'en the Holungday)
