@@ -52,9 +52,10 @@
 
 
  <details>
- <summary>2023/3/20</summary>
+ <summary>2023/3/21</summary>
 
-   + 上传 明日方舟-麦哲伦(Arknights-M)
+   + 上传 明日方舟-麦哲伦(Arknights-Magallan)
+   + 上传 明日方舟-麦哲伦-回味冰霜雪(Arknights-Magallan-RhodesKitchen)
 
  </details>
 
