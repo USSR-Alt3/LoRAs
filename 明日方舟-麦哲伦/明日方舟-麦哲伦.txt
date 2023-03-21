@@ -1,0 +1,2 @@
+Elite0:magallan_cover,bird_mask,mask_around_neck,coat,ice_skates
+Elite2:magallan_remove,bird_mask,mask_around_neck,coat,sweater,straps,clothes_around_waist,ice_skates
