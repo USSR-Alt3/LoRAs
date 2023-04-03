@@ -1,2 +1,1 @@
-Elite0:schwarz_cover,panther_ears,tail,scarf,see-through_jacket,crop_top,shorts,
-Elite2:schwarz_remove,panther_ears,tail,scarf,see-through_jacket,off_shoulder,crop_top,shorts,
+schwarz,panther_ears,tail,scarf,see-through_jacket(,bare_shoulders),crop_top,shorts,strap,thigh_strap
