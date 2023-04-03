@@ -210,12 +210,46 @@
  </details>
 
  <details>
+ <summary>莫斯提马+莫斯提马-除魅(Mostima)</summary> 
+
+ ![]()
+ ![]()
+ </details>
+
+ <details>
+ <summary>煌+煌-爆裂菲林+煌-睡衣+煌-夏活(Blaze)</summary> 
+
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ </details>
+
+ <details>
+ <summary>年+年-乐逍遥(Nian)</summary> 
+
+ ![]()
+ ![]()
+ </details>
+
+ <details>
  <summary>夜刀+麒麟X夜刀(Yato)</summary> 
 
  ![]()
  ![]()
  </details>
  
+ </details>
+
+ <details>
+ <summary>剧情角色(Story)</summary>
+
+ <details>
+ <summary>菈塔托丝(Ratatos)</summary>
+
+ ![]()
+ </details>
+
  </details>
 
  </details>
